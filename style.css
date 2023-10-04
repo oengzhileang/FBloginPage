@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: white;
+}
+.text{
+    font-family: inter;
+    position: relative;
+    top: 400px;
+    left: 200px;
+    font-weight: 600px;
+    font-style: normal;
+    display: inline;
+}
+.Headder{
+    color: #1778F2;
+    font-size: 40px;
+}
+p{
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.form{
+    position: relative;
+    top: 200px;
+    left: 1000px;
+    width: 400px;
+    height: 380px;
+    border: 1px solid rgba(176, 176, 176, 0.60);
+    border-radius: 10px;
+    display: block;
+}
+input{
+    width: 350px;
+    height: 50px;
+    font-size: 15px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 22px;
+    border: 1px solid rgba(176, 176, 176, 0.60);
+    border-radius: 5px;
+}
+.log-in{
+    border-radius: 5px;
+    color: white;
+    background-color: #1778F2;
+    border: 1px solid rgba(176, 176, 176, 0.60);
+    width: 350px;
+    height: 50px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 20px;
+    margin-left: 22px;
+    margin-bottom: 20px;
+}
+a{
+    color: #1778F2;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+hr{
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 40px;
+} 
+.Create{
+    color: white;
+    display: inline-flex;
+    width: 180px;
+    height: 40px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: white;
+    border-radius: 6px;
+    background: #00CE2D;
+    margin-top: 20px;
+    margin-left: 120px; 
+    color: #FFF;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.text-1{
+    margin-top: 210px;
+    margin-left: 1020px;
+    font-size: 15px;
+}
+b{
+    font-weight: 600px;
+    font-size: 20px;
+}
